@@ -13,4 +13,9 @@
     <string name="quad_three_desc">A layout composable that places its children in a horizontal sequence.</string>
     <string name="quad_four_title">Column composable</string>
     <string name="quad_four_desc">A layout composable that places its children in a vertical sequence.</string>
+    <string name="business_name">Dikshant Dwivedi</string>
+    <string name="business_title">Software Development Engineer</string>
+    <string name="business_contact">+91 8750748142</string>
+    <string name="business_website">https://ornate-eclair-a333ef.netlify.app/</string>
+    <string name="business_email">Dikshantdwivedi055@gmail.com</string>
 </resources>
